@@ -4,7 +4,7 @@
   <img src="./dark.svg" alt="Marc Julius Cordova — Developer Profile" width="100%">
 </picture>
 
-## Hi there 👋
+
 
 <!--
 **marcjuls/marcjuls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
